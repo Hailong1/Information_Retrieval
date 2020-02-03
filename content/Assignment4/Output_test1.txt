@@ -1,0 +1,10 @@
+Output for file  test1.txt
+Using initial vector with value of 1/5 for each element 
+The whole page rank for test1.txt are:
+Page Id 	 Page Rank Score
+========================================
+0		0.31899306265567173	
+1		0.13232416256828441	
+2		0.2516822700605724	
+3		0.17661913692264808	
+4		0.12038136779282353	

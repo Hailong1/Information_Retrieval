@@ -1,0 +1,19 @@
+The result is list below
+Below are situation for k=2
+1: cluster RSSk=17326.801488584242 and the document IDcloest to its centroid is 24
+2: cluster RSSk=16771.244841531094 and the document IDcloest to its centroid is 149
+The average RSS value is 80.6100386054736
+Time Taken for computation is in 16.684473276138306 s
+Below are situation for k=3
+1: cluster RSSk=6.819439149208019 and the document IDcloest to its centroid is 1
+2: cluster RSSk=15769.412858812051 and the document IDcloest to its centroid is 24
+3: cluster RSSk=16419.649622879722 and the document IDcloest to its centroid is 149
+The average RSS value is 76.11319603035693
+Time Taken for computation is in 25.024020671844482 s
+Below are situation for k=4
+1: cluster RSSk=0 and the document IDcloest to its centroid is 0
+2: cluster RSSk=15950.715448468032 and the document IDcloest to its centroid is 24
+3: cluster RSSk=6.819439149208019 and the document IDcloest to its centroid is 1
+4: cluster RSSk=16023.297815884716 and the document IDcloest to its centroid is 148
+The average RSS value is 75.6048054456311
+Time Taken for computation is in 33.93782830238342 s
